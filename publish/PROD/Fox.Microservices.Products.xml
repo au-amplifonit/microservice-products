@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Fox.Microservices.Products</name>
+    </assembly>
+    <members>
+        <!-- Badly formed XML comment ignored for member "M:Fox.Microservices.Products.Controllers.ProductsController.Search(System.String,System.String,System.Nullable{Fox.Microservices.Products.Controllers.Families},System.String,System.Nullable{System.Int32},System.String,System.String,System.Nullable{System.Boolean})" -->
+    </members>
+</doc>
